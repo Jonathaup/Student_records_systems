@@ -1,16 +1,16 @@
 # Overview
 
-As a software engineer, my goal with this project was to deepen my understanding of integrating SQL relational databases with Python applications. The software I developed is a console-based Student Records Management System that interacts with a SQLite database to manage student information and their grades. Users can perform essential database operations such as inserting, updating, deleting, and querying records through dynamically generated SQL commands in Python.
+As a software developer, my goal in this project was to advance my skills in integrating SQL relational databases and Python applications. The software I developed is a console-type Student Records Management System that interacts with a SQLite database to keep and process student information and their grades. The users can perform basic database operations such as record insertion, updating, deletion, and querying through dynamically generated SQL statements in Python.
 
-The program features an interactive menu-driven interface that supports CRUD (Create, Read, Update, Delete) operations on students and their grades, performs JOIN queries to display combined student-grade information, and calculates statistical summaries including average and highest grades along with pass/fail status.
+The application features an interactive menu-driven interface offering CRUD (Create, Read, Update, Delete) operations on students and grades, JOIN queries to display composite student-grade information, and statistical summaries like average and top grades and pass/fail status.
 
-This project helps me practice real-world database interaction and data management using Python, preparing me for more complex software development challenges involving databases.
+The project enables me to get hands-on practice with database interaction and data management in real life using Python and prepares me for larger software
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Relational Database
 
-This project uses SQLite, a lightweight, file-based relational database engine that does not require a separate server. SQLite is ideal for embedding within applications and for learning database concepts.
+This project uses SQLite, which is a file-based, lightweight relational database engine that does not require an external server. SQLite is a good choice for embedding in programs and for studying database concepts.
 
 The database contains two main tables:
 
@@ -46,8 +46,8 @@ The software was developed using:
 
 # Future Work
 
-- Improve input validation and error handling to increase robustness  
-- Add functionality to search for students by name  
-- Support multiple grades per student and implement GPA calculation  
-- Develop a graphical user interface (GUI) for more user-friendly interaction  
-- Implement data export features, such as CSV or PDF reports  
+- Make input validation and error checking more robust
+- Add the feature to search students by name
+- Support multiple grades per student and calculate GPA
+- Develop a graphical user interface (GUI) for simplicity of use
+- Incorporate data export features, such as CSV or PDF reports
