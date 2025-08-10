@@ -50,4 +50,4 @@ The software was developed using:
 - Add the feature to search students by name
 - Support multiple grades per student and calculate GPA
 - Develop a graphical user interface (GUI) for simplicity of use
-- Incorporate data export features, such as CSV or PDF reports
+- Incorporate data export features, such as CSV or PDF reports of students

@@ -249,4 +249,4 @@ def menu():
             print("Invalid choice. Please try again.")
 
 if __name__ == "__main__":
-    menu()  # Start the program by calling menu
+    menu()  # Start the program by calling menu again
