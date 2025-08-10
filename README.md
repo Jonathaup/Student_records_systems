@@ -6,7 +6,7 @@ The application features an interactive menu-driven interface offering CRUD (Cre
 
 The project enables me to get hands-on practice with database interaction and data management in real life using Python and prepares me for larger software
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/1KO6dedHu18)
 
 # Relational Database
 
